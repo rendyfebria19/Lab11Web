@@ -6,7 +6,7 @@
 
 # Pertanyaan dan Tugas
 membuat Tampilan menu yang sudah ada. 
--![01 (2)](https://user-images.githubusercontent.com/59887134/122944982-71a91080-d3a2-11eb-8261-09354f99cbb7.png)
+![01 (2)](https://user-images.githubusercontent.com/59887134/122944982-71a91080-d3a2-11eb-8261-09354f99cbb7.png)
 
 # Laporan Praktikum
 1. Membuat Database lab_ci4 pada phpmyadmin![1a](https://user-images.githubusercontent.com/59887134/122945484-cfd5f380-d3a2-11eb-89ff-187c5aa19376.png)
