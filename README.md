@@ -5,7 +5,7 @@
 - Mata Kuliah : Pemograman WEB
 
 # Pertanyaan dan Tugas
-membuat Tampilan menu yang sudah ada 
+membuat Tampilan menu yang sudah ada. 
 -![01 (2)](https://user-images.githubusercontent.com/59887134/122944982-71a91080-d3a2-11eb-8261-09354f99cbb7.png)
 
 # Laporan Praktikum
